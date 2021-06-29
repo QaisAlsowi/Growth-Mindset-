@@ -4,6 +4,6 @@ table of content
 
 NAME | link
 ------------ | -------------
-readme.md | https://qaisalsowi.github.io/Growth-Mindset-/
-read01.md | https://qaisalsowi.github.io/Growth-Mindset-/read01
-read02.md | https://qaisalsowi.github.io/Growth-Mindset-/read02
+readme.md |[readme](https://qaisalsowi.github.io/Growth-Mindset-/)
+read01.md |[read01](https://qaisalsowi.github.io/Growth-Mindset-/read01)
+read02.md | [read02](https://qaisalsowi.github.io/Growth-Mindset-/read02)
